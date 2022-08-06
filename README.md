@@ -1,6 +1,6 @@
 # AirBnB Clone
 
-![hbnb image](https://s3.amazonaws.com/alx-intranet.hbtn.io/uploads/medias/2018/6/65f4a1dd9c51265f49d0.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOUSBVO6H7D%2F20220806%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20220806T223525Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=cee3349af2a5df862898b092559491add2ff554e91dc5df0bd9c040a241d09f5)
+![hbnb](https://user-images.githubusercontent.com/59466195/183268975-648aa48a-76f1-486d-8e55-b335e4279a9e.png)
 
 ## Description
 The AirbnB clone is a **web application project** that consists of four(4) different parts:
@@ -28,8 +28,7 @@ This abstraction will also allow you to change the type of storage easily withou
 
 The *console* will be a tool to validate this storage engine.
 
-![console image](https://s3.amazonaws.com/alx-intranet.hbtn.io/uploads/medias/2018/6/815046647d23428a14ca.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOUSBVO6H7D%2F20220806%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20220806T223525Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=28e5262b207e8292282c7430e27755d77c976d26225200189cb47975323eb623)
-
+![console](https://user-images.githubusercontent.com/59466195/183268981-14576f75-aa4a-4a4b-b25f-c02f551ec91f.png)
 
 ## Execution
 The *console(shell)* should work like this in **interactive mode**
