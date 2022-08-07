@@ -52,6 +52,7 @@ class HBNBCommand(cmd.Cmd):
     def emptyline(self):
         """Do nothing upon receiving an empty line."""
         return cmd.Cmd.emptyline(self)
+        pass
 
     def do_create(self, args):
         """Creates a new instance of BaseModel
