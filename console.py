@@ -51,11 +51,11 @@ class HBNBCommand(cmd.Cmd):
 
     def emptyline(self):
         """Do nothing upon receiving an empty line."""
-        return cmd.Cmd.emptyline(self)
         pass
 
     def do_create(self, args):
         """Creates a new instance of BaseModel
+
         Args:
             arg(line):  BaseModel command
         """
@@ -75,6 +75,7 @@ class HBNBCommand(cmd.Cmd):
     def do_show(self, args):
         """Prints the string representation of an instance
             based on the class name and id
+
             Args:
                 arg(line)
         """
@@ -101,6 +102,7 @@ class HBNBCommand(cmd.Cmd):
     def do_destroy(self, args):
         """Destroy the string representation of an instance
             based on the class name and id
+
             Args:
                 arg(line)
         """
@@ -128,6 +130,7 @@ class HBNBCommand(cmd.Cmd):
     def do_all(self, args):
         """Prints all string representation of all instances based
         or not on the class name
+
         Args:
             args (line): command line arguement
         """
