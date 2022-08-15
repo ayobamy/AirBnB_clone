@@ -93,6 +93,11 @@ section.places article .description {
     text-align: justify;
 }
 
+section.places article .amenities,
+section.places article .reviews {
+    margin-top: 40px;
+}
+
 section.places article .amenities ul,
 section.places article .reviews ul {
     margin: 0;
@@ -106,7 +111,7 @@ section.places article .amenities ul li.wifi {
     background-position: center left;
     background-size: 30px;
     padding-left: 50px;
-    margin-top: 40px;
+    margin-top: 20px;
 }
 section.places article .amenities ul li.pet {
     background-image: url("../images/icon_pets.png");
