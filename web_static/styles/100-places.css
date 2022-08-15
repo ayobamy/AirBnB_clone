@@ -98,6 +98,10 @@ section.places article .reviews {
     margin-top: 40px;
 }
 
+/* .reviews, .amenities {
+    text-align left;
+} */
+
 section.places article .amenities ul,
 section.places article .reviews ul {
     margin: 0;
