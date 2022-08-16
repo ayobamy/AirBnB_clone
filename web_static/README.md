@@ -2,6 +2,9 @@
 
 ![web-static](https://user-images.githubusercontent.com/59466195/184797105-53103cc3-947e-41b2-ae09-3fe99c11204a.PNG)
 
+## Link to deployed page:
+![hosted-page](https://ayobamy.github.io/AirBnB_clone/web_static/103-index.html)
+
 # Background Context
 ## Web static, what?
 Now that you have a command interpreter for managing your AirBnB objects, it’s time to make them alive!
