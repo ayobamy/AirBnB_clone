@@ -11,7 +11,7 @@ body {
     margin: 30px auto;
 }
 
-@media (max-width: 768px) {
+/* @media (max-width: 768px) {
     body {
       overflow-x: hidden;
     }
@@ -25,4 +25,4 @@ body {
     .container {
       max-width: 400px;
     }
-}
+} */
